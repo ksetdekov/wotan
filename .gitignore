@@ -102,3 +102,16 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+wotandownload/pyvenv.cfg
+wotandownload/bin/activate
+wotandownload/bin/activate.csh
+wotandownload/bin/activate.fish
+wotandownload/bin/Activate.ps1
+wotandownload/bin/easy_install
+wotandownload/bin/easy_install-3.8
+wotandownload/bin/pip
+wotandownload/bin/pip3
+wotandownload/bin/pip3.8
+wotandownload/bin/python
+wotandownload/bin/python3
+examples/metric.xlsx
